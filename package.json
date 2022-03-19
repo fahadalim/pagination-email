@@ -1,0 +1,25 @@
+{
+  "name": "pagination-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahadalim/pagination-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahadalim/pagination-email/issues"
+  },
+  "homepage": "https://github.com/fahadalim/pagination-email#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7",
+    "nodemailer": "^6.7.2"
+  }
+}
